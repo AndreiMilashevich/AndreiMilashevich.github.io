@@ -10,8 +10,8 @@
 
 ### Contact Info:
 * <milashevichandrei@gmail.com>
-* [https://linkedin.com/in/andrei-milashevich](https://linkedin.com/in/andrei-milashevich)
-* [https://github.com/AndreiMilashevich](https://github.com/AndreiMilashevich)
+* [https://linkedin.com/in/andrei-milashevich](linkedin.com/in/andrei-milashevich)
+* [https://github.com/AndreiMilashevich](github.com/AndreiMilashevich)
 
 Interested in becoming part of a friendly team where I can apply my skills, develop them and get a lot of experience.
 I like to get new knowledge in areas that are new to me.
@@ -43,5 +43,5 @@ UpSkillLab EPAM: september 2020 - present date
 
 ### Languages: 
 * Russian - native
-* English - B2, sertificate by EF Standard English Test (EF SET) october 2020
+* English - B2, [https://www.efset.org/cert/zo1uQz] (sertificate by EF Standard English Test (EF SET) october 2020) 
 		 
