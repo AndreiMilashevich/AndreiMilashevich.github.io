@@ -43,5 +43,5 @@ UpSkillLab EPAM: september 2020 - present date
 
 ### Languages: 
 * Russian - native
-* English - B2, [https://www.efset.org/cert/zo1uQz] (sertificate by EF Standard English Test (EF SET) october 2020) 
+* English - B2,  [sertificate by EF Standard English Test (EF SET) october 2020] (https://www.efset.org/cert/zo1uQz)
 		 
