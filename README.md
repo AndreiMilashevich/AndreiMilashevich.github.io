@@ -1,1 +1,1 @@
- <https://andreimilashevich.github.io/gh-pages-html/index>
+ <https://andreimilashevich.github.io/rsschool-cv/index>
